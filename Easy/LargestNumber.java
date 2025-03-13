@@ -23,7 +23,7 @@ public class LargestNumber {
 		
 		
 		
-		int arr [] = { 2, 5, 7, 10, 1};
+		int arr [] = { 2,2, 5, 7, 10, 1};
 		
 		int MaxNumber = largestNumber(arr);
 		
